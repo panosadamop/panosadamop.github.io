@@ -1,1 +1,0 @@
-# panosadamop.github.io
