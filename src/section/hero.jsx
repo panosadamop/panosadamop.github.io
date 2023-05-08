@@ -48,7 +48,7 @@ const hero = () => {
                             >
                             <li><span>Address</span>Stenimachou 34, Nea Smirni, Athens</li>
                             <li><span>Telephone</span>+30 6934 786 024, +30 6942 052 019</li>
-                            <li><span>Email</span>panagiotis@panagiotis.gr</li>
+                            <li><span>Email</span>panagiotis@adamopoulos.online</li>
                         </ul>
                     </div>
                 </div>

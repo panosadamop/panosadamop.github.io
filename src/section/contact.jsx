@@ -95,8 +95,8 @@ const contact = () => {
                                     >
                                     <div className="wm-1"></div>
                                     <h6>Email Me</h6>
-                                    <p>panagiotis@adamopoulos.website</p>
-                                    <p>panagiotis.adamopoulos@gmail.com</p>
+                                    <p>panagiotis@adamopoulos.online</p>
+                                    <p>p.h.adamopoulos@gmail.com</p>
                                 </div>
                                 <div className="col-md-4"
                                     data-aos="fade-up"

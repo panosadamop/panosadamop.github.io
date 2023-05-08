@@ -12,9 +12,9 @@ const footer = () => {
                     </div>
                     <div className="col-md-6">
                         <div className="social-icons">
-                            <a href="https://www.linkedin.com/" rel="noreferrer"><i className="fa fa-linkedin"></i></a>
-                            <a href="https://drupal.org/" rel="noreferrer"><i className="fa fa-drupal"></i></a>
-                            <a href="https://www.github.com" target="_blank" rel="noreferrer"><i className="fa fa-github"></i></a>
+                            <a href="https://www.linkedin.com/in/padamopoulos/" rel="noreferrer"><i className="fa fa-linkedin"></i></a>
+                            <a href="https://www.drupal.org/user/2290702/" rel="noreferrer"><i className="fa fa-drupal"></i></a>
+                            <a href="https://www.github.com/panosadamop" target="_blank" rel="noreferrer"><i className="fa fa-github"></i></a>
                         </div>
                     </div>
                 </div>

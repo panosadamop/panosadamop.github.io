@@ -29,8 +29,8 @@ const whatido = () => {
                     <div className="de_3d-box">
                         <div className="d-inner">
                             <div className="text">
-                                <h3>Enterprise Architecture</h3>
-                                Ex velit cupidatat magna voluptate deserunt quis et dolor adipisicing elit culpa ad exercitation proident irure deserunt irure.
+                                <h3>Enterprise Architecture and Design</h3>
+                                Provides a holistic and strategic view of an organization's information systems, processes, and technology infrastructure. It aims to align an organization's business and IT strategies and capabilities to achieve its objectives.
                             </div>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ const whatido = () => {
                         <div className="d-inner">
                             <div className="text">
                                 <h3>Software Desing & Implementation</h3>
-                                Ex velit cupidatat magna voluptate deserunt quis et dolor adipisicing elit culpa ad exercitation proident irure deserunt irure.
+                                During software implementation, the design is translated into code, and the software is built, tested, and deployed. This phase involves writing the actual code that implements the design, testing the code to ensure it functions as intended, and integrating the code with other components of the software system.
                             </div>
                         </div>
                     </div>
@@ -62,7 +62,7 @@ const whatido = () => {
                         <div className="d-inner">
                             <div className="text">
                                 <h3>Project Management & Specification Analysis</h3>
-                                Ex velit cupidatat magna voluptate deserunt quis et dolor adipisicing elit culpa ad exercitation proident irure deserunt irure.
+                                The successful analysis and completion of a project from start to finish, balancing competing demands and manage risks to ensure that projects are completed on time, within budget, and to the satisfaction of all stakeholders.
                             </div>
                         </div>
                     </div>

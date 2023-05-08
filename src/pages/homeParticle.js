@@ -54,29 +54,13 @@ function home() {
       <section id="gallery">
         <Gallery/>
       </section>
-
-      {/* Gallery */}
       <section id="resume" className="pb-0">
         <Resume/>
       </section>
-
-      {/* contact */}
       <section id="contact" className="pb-0">
         <Contact/>
         <Footer/>
       </section>
-
-
-
-
-      <div className="float-text">
-          <div className="de_social-icons">
-              <span className="buton"><i className="fa fa-linkedin fa-lg"></i></span>
-              <span className="buton"><i className="fa fa-drupal fa-lg"></i></span>
-              <span className="buton"><i className="fa fa-github fa-lg"></i></span>
-          </div>
-          <span>Find Me</span>
-      </div>
     </div>
     <ScrollToTopBtn />
     </>
